@@ -1,0 +1,53 @@
+[33mcommit e3b1d71fa70464a07c5d6602eb5d0991696c59b1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: qinxiaodong_ly <qinxiaodong_ly@163.com>
+Date:   Thu Feb 21 19:56:59 2019 +0800
+
+    移除TEST.TXT
+
+[33mcommit 598f6f532625af95ce1fe9ac28a3732ac38d4d8d[m
+Author: qinxiaodong_ly <qinxiaodong_ly@163.com>
+Date:   Thu Feb 21 19:55:33 2019 +0800
+
+    add test.txt
+
+[33mcommit d3c3cb7199341c347460130e8050623df47750e7[m
+Author: qinxiaodong_ly <qinxiaodong_ly@163.com>
+Date:   Thu Feb 21 19:48:42 2019 +0800
+
+    增加
+
+[33mcommit da206b55c18c087831a4e567a17b541d8c511e18[m
+Author: qinxiaodong_ly <qinxiaodong_ly@163.com>
+Date:   Thu Feb 21 19:41:49 2019 +0800
+
+    git tracks changes
+
+[33mcommit 2f3ba1376a5af72452ffd30523826f36cd458b2e[m
+Author: qinxiaodong_ly <qinxiaodong_ly@163.com>
+Date:   Thu Feb 21 19:38:26 2019 +0800
+
+    understatnd how stage  workds理解STATGE如何工作
+
+[33mcommit 138b347359023bc77e10b5eed20df4817053b018[m
+Author: qinxiaodong_ly <qinxiaodong_ly@163.com>
+Date:   Thu Feb 21 19:27:42 2019 +0800
+
+    增加了一行新的数据用来测试中文
+
+[33mcommit 6f4937d1a659aa684f3c29bbc5213a2c34c518cc[m
+Author: qinxiaodong_ly <qinxiaodong_ly@163.com>
+Date:   Thu Feb 21 19:25:39 2019 +0800
+
+    thrid change. add one line and change the thrid line
+
+[33mcommit 8a188c7081da97e700bbecce173b282c36e5f7e5[m
+Author: qinxiaodong_ly <qinxiaodong_ly@163.com>
+Date:   Thu Feb 21 19:22:55 2019 +0800
+
+    add the sencond and thrid line
+
+[33mcommit 101113c43133b224883d81fd62bcc98b30846517[m
+Author: qinxiaodong_ly <qinxiaodong_ly@163.com>
+Date:   Thu Feb 21 16:27:25 2019 +0800
+
+    wrote a gitlearn1 file
